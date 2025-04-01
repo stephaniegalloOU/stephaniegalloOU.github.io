@@ -3,6 +3,7 @@
     "id": "https:\/\/uo-stage.i8.dgicloud.com\/node\/721\/iiif-p\/manifest",
     "type": "Manifest",
     "behavior": ["paged"],
+    "viewingDirection": "left-to-right", 
     "label": {
         "none": [
             "Testing - The Penny Magazine of the Society for the Diffusion of Useful Knowledge"
