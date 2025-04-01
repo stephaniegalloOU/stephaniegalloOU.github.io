@@ -1,0 +1,555 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/manifest",
+    "type": "Manifest",
+    "behavior": ["paged"],
+    "label": {
+        "none": [
+            "The Penny Magazine of the Society for the Diffusion of Useful Knowledge"
+        ]
+    },
+    "service": [
+        {
+            "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+            "profile": "http:\/\/iiif.io\/api\/search\/1\/search",
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-cs\/1",
+            "type": "SearchService1"
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-cs\/2",
+            "type": "SearchService2"
+        }
+    ],
+    "items": [
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/722",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 1"
+                ]
+            },
+            "height": 1319,
+            "width": 896,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1280\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1280\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIyLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIyLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1319,
+                            "width": 896,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1280\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIyLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIyLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/723",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 2"
+                ]
+            },
+            "height": 1319,
+            "width": 892,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1282\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1282\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIzLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIzLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1319,
+                            "width": 892,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1282\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIzLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzIzLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/724",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 3"
+                ]
+            },
+            "height": 1320,
+            "width": 905,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1284\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1284\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI0LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI0LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1320,
+                            "width": 905,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1284\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI0LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI0LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/725",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 4"
+                ]
+            },
+            "height": 1320,
+            "width": 890,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1286\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1286\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI1LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI1LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1320,
+                            "width": 890,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1286\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI1LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI1LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/726",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 5"
+                ]
+            },
+            "height": 1319,
+            "width": 905,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1288\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1288\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI2LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI2LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1319,
+                            "width": 905,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1288\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI2LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI2LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/727",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 6"
+                ]
+            },
+            "height": 1320,
+            "width": 899,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1290\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1290\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI3LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI3LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1320,
+                            "width": 899,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1290\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI3LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI3LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/728",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 7"
+                ]
+            },
+            "height": 1320,
+            "width": 910,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1292\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1292\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI4LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI4LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1320,
+                            "width": 910,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1292\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI4LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI4LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/729",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 8"
+                ]
+            },
+            "height": 1319,
+            "width": 903,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1294\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1294\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI5LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI5LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1319,
+                            "width": 903,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1294\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI5LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzI5LVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/730",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 9"
+                ]
+            },
+            "height": 1320,
+            "width": 880,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1296\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1296\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMwLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMwLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1320,
+                            "width": 880,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1296\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMwLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMwLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https:\/\/uo-prod.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/731",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image 10"
+                ]
+            },
+            "height": 1320,
+            "width": 880,
+            "items": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1298\/page\/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1298\/page\/0\/annotation\/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMxLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/full\/0\/default.jpg",
+                                "type": "Image",
+                                "format": "image\/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMxLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "height": 1320,
+                            "width": 880,
+                            "target": "https:\/\/uo-prod.i8.dgicloud.com\/entity\/file\/1298\/page\/0"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMxLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default\/full\/!256,256\/0\/default.jpg",
+                    "type": "Image",
+                    "format": "image\/jpeg",
+                    "service": [
+                        {
+                            "id": "https:\/\/uo-prod.i8.dgicloud.com\/iiif\/2\/L19mbHlzeXN0ZW0vcmVwby1zZXJ2aWNlLzIwMjUtMDMvNzMxLVNlcnZpY2UlMjBGaWxlLmpwMg%3D%3D~drupal_d8_default",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
