@@ -2,13 +2,12 @@
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
     "id": "https:\/\/uo-stage.i8.dgicloud.com\/node\/721\/iiif-p\/manifest",
     "type": "Manifest",
-    "behavior": ["paged"],
-    "viewingDirection": "left-to-right", 
     "label": {
         "none": [
             "Testing - The Penny Magazine of the Society for the Diffusion of Useful Knowledge"
         ]
     },
+    "behavior": ["paged"],
     "service": [
         {
             "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
