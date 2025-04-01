@@ -7,7 +7,6 @@
             "Testing - The Penny Magazine of the Society for the Diffusion of Useful Knowledge"
         ]
     },
-    "behavior": ["paged"],
     "service": [
         {
             "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
