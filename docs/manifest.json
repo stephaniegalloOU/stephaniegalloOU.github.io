@@ -19,6 +19,9 @@
             "type": "SearchService2"
         }
     ],
+    "behavior": [
+        "paged"
+    ],
     "items": [
         {
             "id": "https:\/\/uo-stage.i8.dgicloud.com\/node\/721\/iiif-p\/canvas\/node\/722",
